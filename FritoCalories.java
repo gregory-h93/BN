@@ -1,5 +1,6 @@
 import java.util.Scanner;
 //This a change to a file
+//This is another change to a file
 
 public class FritoCalories
 {
